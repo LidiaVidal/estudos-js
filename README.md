@@ -57,4 +57,4 @@ Feito com 💜 e JavaScript.
 
 ## 📬 Contato
 
-- **LinkedIn:** [Lídia Souza Vidal]((https://www.linkedin.com/in/l%C3%ADdiavidal-dev/))
+- **LinkedIn:** [Lídia Souza Vidal](https://www.linkedin.com/in/l%C3%ADdiavidal-dev/)
